@@ -1,5 +1,7 @@
-# Random Expansion
+# 随机扩展
 
-Im doing my best in this, so dont decrease my self-esteem
+添加了一些材料和盔甲供玩家体验游玩
 
-This is an unfinished slimefun addon, so i dont have anything to say about it
+## 下载
+
+[下载 RandomExpansion]()
